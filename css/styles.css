@@ -1,0 +1,198 @@
+
+html
+{
+}
+#title
+{
+    background-color: #ff4C68;
+    color: white;
+margin-right: 0;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px !important;
+    line-height: 2;
+    padding-left:15% ;
+    padding-top:15% ;
+    
+}
+.container-fluid
+{
+    padding: 3% 15% 7%;
+    
+}
+.apple
+{
+    margin-left: 15%
+    
+}
+.navbar-brand
+{
+    font-family: 'Ubuntu', 'sans-serif';
+    margin-left: 6.5%;
+    font-size: 50px !important;
+    font-weight: bold;
+    
+}
+.social-icon
+{
+    padding: 1%;
+   
+}
+.navbar
+{
+    padding:0 0 2.5rem ;
+}
+#mastiff
+{
+    height: 50px;
+}
+#pricing
+{  text-align: center;
+    padding: 100px;
+}
+.pricing-column 
+{
+padding: 3% 2%;
+}
+.nav-item
+{
+    
+    font-family: 'Montserrat', 'sans-serif';
+    
+padding: 0 30px;
+}
+.nav-link
+{
+    font-size: 1.2rem;
+}
+.btn
+{
+    margin-right: 2%;
+}
+.frontimg
+{
+    width: 40%;
+    transform: rotate(25deg);
+    margin-left: 30%;
+    margin-top:10%;
+    position: absolute;
+    }
+.fas
+{padding-top: 25%;
+margin-left: 45%;
+color: #ff4C68;
+}
+.fas:hover
+{
+    color:#ff3352;
+}
+h3{
+    font-family: 'Montserrat', 'sans-serif' ;
+    text-align: center;
+    margin-top: 10px;
+}
+h2{
+    text-align: center;
+    padding-top: 5%;
+}
+.first-content{
+    text-align: center;
+    padding-bottom: 25%;
+color: grey;
+}
+#testimonials
+{
+    font-family: 'Montserrat', 'sans-serif';
+    text-align: center;
+    color: white;
+    background-color:#ff4C68 ;
+    
+}
+.dogo
+{
+    width: 10%;
+    border-radius: 200%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    
+}
+#press
+{
+    background-color:#ff4C68 ; 
+    text-align: center;
+    padding-bottom:3% ;
+
+}
+.presslogo
+{
+    width:15%;
+    margin: 20px 20px 50px;
+}
+.testimonial-image
+{
+    width: 10%;
+    border-radius: 200%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+     
+}
+.carousel-item
+{
+    padding: 7% 15%;
+}
+#features
+{
+    position: relative;
+    z-index: 1;
+    padding: 7% 15%;
+background-color: white;
+}
+@media (max-width:993px)
+{
+    .frontimg
+    {
+        position: static;
+        transform: rotate(0);
+    }
+
+h1 
+{
+    text-align: center;
+}
+#cta{
+margin-top: 40%;
+}}
+#cta
+{  
+   color: white;
+    background-color: #ff4C68 ;
+    
+}
+.apple2{
+    position: relative;
+  margin-left: 28%;
+}
+
+.google2 
+{
+
+}
+
+.comm
+{
+    text-align: center;
+}
+#footer
+{   padding-top: 15%;
+    margin-bottom: 10%;
+    text-align: center;
+}
+.fab
+{
+    text-align: center;
+}
+.cta-heading
+{
+    padding: 7% 5%;
+}
